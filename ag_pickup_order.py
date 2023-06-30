@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-x = np.array([0, 47.95, 49.6, 54.25, 47.8, 37.375, 39.125, 34.5, 38.25])
-y = np.array([10, 19.25, 8.45, 4.65, 8.45, 12.2, 12.2, 15.3, 16.55])
+x = np.array([0, 47.95, 49.6, 54.25, 47.8, 37.375, 39.125, 34.5, 38.25]) #Coordinate Point
+y = np.array([10, 19.25, 8.45, 4.65, 8.45, 12.2, 12.2, 15.3, 16.55]) #Coordinate Point
 
 plt.scatter(x, y)
 plt.xlabel("x")
