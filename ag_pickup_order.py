@@ -10,7 +10,7 @@ plt.xlabel("x")
 plt.ylabel("y")
 plt.show()
 
-# number of cities / points
+# number of points
 m = len(x)
 
 # number of chromosomes in population
